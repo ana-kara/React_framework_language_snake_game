@@ -45,4 +45,3 @@ function Mycards() {
 }
 
 export default Mycards;
-
